@@ -16,7 +16,7 @@
 			<scope>provided</scope>
 		</dependency>
 	</dependencies>
-<build>
+	<build>
 		<finalName>${project.artifactId}</finalName>
 		<plugins>
 			<plugin>
@@ -37,5 +37,5 @@
 				</configuration>
 			</plugin>
 		</plugins>
-	</build>	
+	</build>
 </project>
